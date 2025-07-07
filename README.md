@@ -1,8 +1,8 @@
-#RISC Emulator in C
+# RISC Emulator in C
 
 A basic RISC asm interpreter written in C. (More like Mini-RISC)
 
-##Instructions
+## Instructions
 
 The emulator currently contains these instructions:
 
@@ -23,7 +23,7 @@ The emulator currently contains these instructions:
 - not
 - hlt
 
-##Usage
+## Usage
 
 The register amount can be configured via setting the `REGISTER_AMM` macro value.
 
